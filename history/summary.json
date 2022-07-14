@@ -60,9 +60,9 @@
     "url": "https://zabbix.zabbix-web24.duckdns.org",
     "icon": "https://favicons.githubusercontent.com/zabbix.zabbix-web24.duckdns.org",
     "slug": "zabbix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 437,
     "timeMonth": 468,
     "timeYear": 468,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-14": 0
+    }
   },
   {
     "name": "Upptime",
