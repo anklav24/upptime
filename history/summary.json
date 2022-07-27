@@ -42,10 +42,10 @@
     "url": "https://mikrotik24.duckdns.org",
     "icon": "https://favicons.githubusercontent.com/mikrotik24.duckdns.org",
     "slug": "mikrotik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "99.73%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
     "time": 1311,
@@ -54,6 +54,7 @@
     "timeMonth": 1311,
     "timeYear": 1311,
     "dailyMinutesDown": {
+      "2022-07-27": 1,
       "2022-07-26": 27,
       "2022-07-15": 38,
       "2022-07-06": 26
@@ -64,7 +65,7 @@
     "url": "https://zabbix.zabbix-web24.duckdns.org",
     "icon": "https://favicons.githubusercontent.com/zabbix.zabbix-web24.duckdns.org",
     "slug": "zabbix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "98.89%",
     "uptimeWeek": "99.84%",
@@ -76,6 +77,7 @@
     "timeMonth": 797,
     "timeYear": 797,
     "dailyMinutesDown": {
+      "2022-07-27": 0,
       "2022-07-26": 16,
       "2022-07-15": 53,
       "2022-07-14": 87
