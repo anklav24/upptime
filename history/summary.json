@@ -24,9 +24,9 @@
     "url": "https://xn--4-htbm7bza.xn--p1ai",
     "icon": "https://favicons.githubusercontent.com/xn--4-htbm7bza.xn--p1ai",
     "slug": "4-souls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1573,
     "timeMonth": 1637,
     "timeYear": 1658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   },
   {
     "name": "Mikrotik",
@@ -43,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/mikrotik24.duckdns.org",
     "slug": "mikrotik",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.09%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "98.13%",
     "time": 1392,
     "timeDay": 954,
     "timeWeek": 937,
