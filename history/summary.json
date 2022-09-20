@@ -24,19 +24,19 @@
     "url": "https://xn--4-htbm7bza.xn--p1ai",
     "icon": "https://favicons.githubusercontent.com/xn--4-htbm7bza.xn--p1ai",
     "slug": "4-souls",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1658,
-    "timeDay": 1536,
-    "timeWeek": 1573,
-    "timeMonth": 1637,
-    "timeYear": 1658,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1660,
+    "timeDay": 1691,
+    "timeWeek": 1607,
+    "timeMonth": 1644,
+    "timeYear": 1660,
     "dailyMinutesDown": {
-      "2022-09-20": 0
+      "2022-09-20": 24
     }
   },
   {
