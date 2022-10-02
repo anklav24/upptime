@@ -4,10 +4,10 @@
     "url": "https://anklavcode.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/anklavcode.duckdns.org.ico",
     "slug": "anklav-code",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "92.06%",
-    "uptimeWeek": "98.87%",
+    "uptimeDay": "92.01%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.85%",
     "time": 1162,
@@ -16,7 +16,7 @@
     "timeMonth": 1943,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2022-10-02": 57,
+      "2022-10-02": 58,
       "2022-10-01": 58,
       "2022-09-23": 33,
       "2022-07-15": 39
