@@ -7,8 +7,12 @@ sites:
     url: https://anklavcode.duckdns.org
   - name: 4SOULS
     url: https://xn--4-htbm7bza.xn--p1ai
-  - name: Mikrotik
-    url: https://mikrotik24.duckdns.org
+  - name: SQCP
+    url: https://sqcp.mikrotik24.duckdns.org
+  - name: Grafana
+    url: https://grafana.mikrotik24.duckdns.org
+  - name: Home Assistant
+    url: https://ha-24.duckdns.org
   - name: Zabbix
     url: https://zabbix.zabbix-web24.duckdns.org
   - name: Upptime
