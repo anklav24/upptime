@@ -1,7 +1,7 @@
 url: https://grafana.mikrotik24.duckdns.org
-status: up
-code: 200
-responseTime: 1727
-lastUpdated: 2023-01-07T23:09:00.200Z
+status: down
+code: 502
+responseTime: 3130
+lastUpdated: 2023-01-08T08:53:23.343Z
 startTime: Sat Jan 07 2023 19:24:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
