@@ -5,18 +5,32 @@ repo: upptime # The name of this repository
 sites:
   - name: Anklav Code
     url: https://anklavcode.duckdns.org
+    expectedStatusCodes:
+      - 200
   - name: 4SOULS
     url: https://xn--4-htbm7bza.xn--p1ai
+    expectedStatusCodes:
+      - 200
   - name: SQCP
     url: https://sqcp.mikrotik24.duckdns.org
+    expectedStatusCodes:
+      - 200
   - name: Grafana
     url: https://grafana.mikrotik24.duckdns.org
+    expectedStatusCodes:
+      - 200
   - name: Home Assistant
     url: https://ha-24.duckdns.org
-#   - name: Zabbix
-#     url: https://zabbix.zabbix-web24.duckdns.org
+    expectedStatusCodes:
+      - 200
+  - name: mikrotik24
+    url: https://mikrotik24.duckdns.org
+    expectedStatusCodes:
+      - 403
   - name: Upptime
     url: https://anklav24.github.io/upptime
+    expectedStatusCodes:
+      - 200
   
 assignees:
   - anklav24
