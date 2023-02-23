@@ -27,6 +27,10 @@ sites:
     url: https://mikrotik24.duckdns.org
     expectedStatusCodes:
       - 403
+  - name: zabbix24
+    url: https://zabbix24.duckdns.org
+    expectedStatusCodes:
+      - 403
   - name: Upptime
     url: https://anklav24.github.io/upptime
     expectedStatusCodes:
