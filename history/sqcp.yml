@@ -1,7 +1,7 @@
 url: https://sqcp.mikrotik24.duckdns.org
-status: up
-code: 200
-responseTime: 990
-lastUpdated: 2023-09-27T23:08:28.748Z
+status: down
+code: 404
+responseTime: 1169
+lastUpdated: 2023-09-28T14:19:23.908Z
 startTime: 2023-01-07T19:24:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
