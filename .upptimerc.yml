@@ -12,7 +12,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: SQCP
-    url: https://sqcp.mikrotik24.duckdns.org
+    url: https://nklv.duckdns.org
     expectedStatusCodes:
       - 200
   - name: Grafana
