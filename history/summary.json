@@ -76,7 +76,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.46%",
-    "uptimeYear": "97.85%",
+    "uptimeYear": "97.86%",
     "time": 2237,
     "timeDay": 0,
     "timeWeek": 2559,
@@ -108,8 +108,7 @@
       "2023-02-13": 382,
       "2023-01-11": 1348,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   },
   {
@@ -118,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nklv.duckdns.org.ico",
     "slug": "sqcp",
     "status": "up",
-    "uptime": "88.44%",
+    "uptime": "88.45%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "97.63%",
@@ -321,8 +320,7 @@
       "2023-01-21": 18,
       "2023-01-20": 27,
       "2023-01-12": 23,
-      "2023-01-11": 16,
-      "2023-01-08": 203
+      "2023-01-11": 16
     }
   },
   {
@@ -487,19 +485,20 @@
     "url": "https://zabbix24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/zabbix24.duckdns.org.ico",
     "slug": "zabbix24",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "99.00%",
-    "time": 2077,
-    "timeDay": 738,
-    "timeWeek": 4641,
-    "timeMonth": 2744,
-    "timeYear": 2077,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "98.98%",
+    "time": 2075,
+    "timeDay": 920,
+    "timeWeek": 4388,
+    "timeMonth": 2712,
+    "timeYear": 2075,
     "dailyMinutesDown": {
-      "2024-01-07": 0,
+      "2024-01-08": 69,
+      "2024-01-07": 3,
       "2024-01-04": 119,
       "2024-01-03": 23,
       "2024-01-02": 31,
