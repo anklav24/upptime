@@ -11,8 +11,8 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.65%",
     "time": 1481,
-    "timeDay": 195,
-    "timeWeek": 1969,
+    "timeDay": 170,
+    "timeWeek": 1976,
     "timeMonth": 2506,
     "timeYear": 1611,
     "dailyMinutesDown": {
@@ -61,8 +61,7 @@
       "2023-02-10": 40,
       "2023-02-07": 22,
       "2023-02-02": 21,
-      "2023-01-28": 20,
-      "2023-01-25": 29
+      "2023-01-28": 20
     }
   },
   {
@@ -71,16 +70,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--4-htbm7bza.xn--p1ai.ico",
     "slug": "4-souls",
     "status": "up",
-    "uptime": "96.82%",
+    "uptime": "96.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.04%",
-    "time": 2259,
-    "timeDay": 2144,
-    "timeWeek": 2251,
-    "timeMonth": 2689,
-    "timeYear": 2405,
+    "time": 2269,
+    "timeDay": 6932,
+    "timeWeek": 3000,
+    "timeMonth": 2837,
+    "timeYear": 2416,
     "dailyMinutesDown": {
       "2023-12-25": 34,
       "2023-12-16": 199,
@@ -113,16 +112,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nklv.duckdns.org.ico",
     "slug": "sqcp",
     "status": "up",
-    "uptime": "88.91%",
+    "uptime": "88.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "88.43%",
-    "time": 2078,
-    "timeDay": 1046,
-    "timeWeek": 4042,
-    "timeMonth": 3073,
-    "timeYear": 2082,
+    "time": 2085,
+    "timeDay": 5722,
+    "timeWeek": 4578,
+    "timeMonth": 3175,
+    "timeYear": 2090,
     "dailyMinutesDown": {
       "2024-01-16": 94,
       "2024-01-07": 15,
@@ -221,8 +220,7 @@
       "2023-02-07": 23,
       "2023-02-02": 36,
       "2023-01-28": 20,
-      "2023-01-26": 28,
-      "2023-01-25": 28
+      "2023-01-26": 28
     }
   },
   {
@@ -236,11 +234,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "98.82%",
-    "time": 2677,
-    "timeDay": 1656,
-    "timeWeek": 2656,
-    "timeMonth": 3246,
-    "timeYear": 2695,
+    "time": 2674,
+    "timeDay": 1186,
+    "timeWeek": 2657,
+    "timeMonth": 3248,
+    "timeYear": 2685,
     "dailyMinutesDown": {
       "2024-01-16": 20,
       "2024-01-15": 21,
@@ -310,8 +308,7 @@
       "2023-02-07": 45,
       "2023-01-31": 38,
       "2023-01-28": 19,
-      "2023-01-26": 28,
-      "2023-01-25": 28
+      "2023-01-26": 28
     }
   },
   {
@@ -320,15 +317,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha-24.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "98.63%",
-    "time": 2265,
-    "timeDay": 873,
-    "timeWeek": 3438,
-    "timeMonth": 3057,
+    "time": 2263,
+    "timeDay": 1008,
+    "timeWeek": 3430,
+    "timeMonth": 3059,
     "timeYear": 2273,
     "dailyMinutesDown": {
       "2024-01-15": 20,
@@ -392,8 +389,7 @@
       "2023-02-07": 22,
       "2023-02-02": 35,
       "2023-01-28": 19,
-      "2023-01-26": 28,
-      "2023-01-25": 28
+      "2023-01-26": 28
     }
   },
   {
@@ -407,11 +403,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "98.98%",
-    "time": 2041,
-    "timeDay": 793,
-    "timeWeek": 2918,
+    "time": 2039,
+    "timeDay": 731,
+    "timeWeek": 2901,
     "timeMonth": 2536,
-    "timeYear": 2041,
+    "timeYear": 2039,
     "dailyMinutesDown": {
       "2024-01-16": 113,
       "2024-01-15": 2,
@@ -481,11 +477,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.02%",
-    "time": 2122,
-    "timeDay": 898,
-    "timeWeek": 2852,
-    "timeMonth": 3156,
-    "timeYear": 2122,
+    "time": 2119,
+    "timeDay": 911,
+    "timeWeek": 2845,
+    "timeMonth": 3160,
+    "timeYear": 2119,
     "dailyMinutesDown": {
       "2024-01-21": 21,
       "2024-01-16": 38,
@@ -553,9 +549,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 70,
-    "timeWeek": 109,
-    "timeMonth": 129,
+    "timeDay": 215,
+    "timeWeek": 135,
+    "timeMonth": 134,
     "timeYear": 121,
     "dailyMinutesDown": {}
   }
