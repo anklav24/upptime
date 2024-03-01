@@ -1,7 +1,7 @@
 url: https://zabbix24.duckdns.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-01T16:41:07.852Z
+status: up
+code: 403
+responseTime: 891
+lastUpdated: 2024-03-01T16:50:11.870Z
 startTime: 2023-02-23T08:50:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
