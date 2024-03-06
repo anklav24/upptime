@@ -1,7 +1,7 @@
 url: https://ha-24.duckdns.org
-status: up
-code: 200
-responseTime: 916
-lastUpdated: 2024-03-06T23:09:56.205Z
+status: down
+code: 502
+responseTime: 836
+lastUpdated: 2024-03-06T23:28:46.767Z
 startTime: 2023-01-07T19:24:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
