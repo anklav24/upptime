@@ -6,15 +6,15 @@
     "slug": "anklav-code",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "97.08%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.56%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
-    "time": 1597,
-    "timeDay": 1600,
-    "timeWeek": 1222,
-    "timeMonth": 1743,
-    "timeYear": 1696,
+    "time": 1599,
+    "timeDay": 1863,
+    "timeWeek": 1385,
+    "timeMonth": 1718,
+    "timeYear": 1699,
     "dailyMinutesDown": {
       "2024-03-12": 42,
       "2024-03-02": 73,
@@ -66,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--4-htbm7bza.xn--p1ai.ico",
     "slug": "4-souls",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 2324,
-    "timeDay": 1707,
-    "timeWeek": 2208,
-    "timeMonth": 2026,
-    "timeYear": 2404,
+    "timeDay": 2044,
+    "timeWeek": 2155,
+    "timeMonth": 1998,
+    "timeYear": 2403,
     "dailyMinutesDown": {
       "2023-12-25": 34,
       "2023-12-16": 199,
@@ -96,8 +96,7 @@
       "2023-06-25": 1440,
       "2023-06-24": 333,
       "2023-04-30": 21,
-      "2023-04-27": 292,
-      "2023-03-15": 62
+      "2023-04-27": 292
     }
   },
   {
@@ -106,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nklv.duckdns.org.ico",
     "slug": "sqcp",
     "status": "up",
-    "uptime": "90.12%",
-    "uptimeDay": "95.70%",
+    "uptime": "90.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.67%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "88.52%",
-    "time": 2138,
-    "timeDay": 3633,
-    "timeWeek": 2080,
-    "timeMonth": 1781,
-    "timeYear": 2260,
+    "time": 2139,
+    "timeDay": 2376,
+    "timeWeek": 2225,
+    "timeMonth": 1806,
+    "timeYear": 2263,
     "dailyMinutesDown": {
       "2024-03-12": 62,
       "2024-03-02": 65,
@@ -208,8 +207,7 @@
       "2023-04-30": 21,
       "2023-04-27": 292,
       "2023-04-23": 31,
-      "2023-04-05": 26,
-      "2023-03-15": 62
+      "2023-04-05": 26
     }
   },
   {
@@ -219,15 +217,15 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "98.45%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "98.76%",
-    "time": 2700,
-    "timeDay": 3353,
-    "timeWeek": 3029,
-    "timeMonth": 2489,
-    "timeYear": 2739,
+    "time": 2697,
+    "timeDay": 1044,
+    "timeWeek": 2440,
+    "timeMonth": 2479,
+    "timeYear": 2738,
     "dailyMinutesDown": {
       "2024-03-12": 22,
       "2024-03-07": 16,
@@ -289,8 +287,7 @@
       "2023-04-23": 20,
       "2023-04-06": 30,
       "2023-04-05": 26,
-      "2023-03-24": 22,
-      "2023-03-15": 41
+      "2023-03-24": 22
     }
   },
   {
@@ -300,15 +297,15 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "98.72%",
-    "time": 2284,
-    "timeDay": 1320,
-    "timeWeek": 1049,
-    "timeMonth": 1694,
-    "timeYear": 2333,
+    "time": 2281,
+    "timeDay": 816,
+    "timeWeek": 983,
+    "timeMonth": 1692,
+    "timeYear": 2326,
     "dailyMinutesDown": {
       "2024-03-12": 22,
       "2024-03-06": 22,
@@ -363,8 +360,7 @@
       "2023-04-27": 273,
       "2023-04-23": 31,
       "2023-03-25": 18,
-      "2023-03-24": 21,
-      "2023-03-15": 41
+      "2023-03-24": 21
     }
   },
   {
@@ -373,15 +369,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mikrotik24.duckdns.org.ico",
     "slug": "mikrotik24",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "98.50%",
+    "uptime": "99.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.68%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.03%",
-    "time": 2046,
-    "timeDay": 3073,
-    "timeWeek": 1578,
-    "timeMonth": 1580,
+    "time": 2044,
+    "timeDay": 706,
+    "timeWeek": 1569,
+    "timeMonth": 1484,
     "timeYear": 2041,
     "dailyMinutesDown": {
       "2024-03-12": 22,
@@ -439,8 +435,7 @@
       "2023-04-23": 21,
       "2023-04-05": 17,
       "2023-03-25": 18,
-      "2023-03-24": 20,
-      "2023-03-15": 15
+      "2023-03-24": 20
     }
   },
   {
@@ -450,15 +445,15 @@
     "slug": "zabbix24",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "98.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.07%",
-    "time": 2138,
-    "timeDay": 1434,
-    "timeWeek": 1233,
-    "timeMonth": 1950,
-    "timeYear": 2128,
+    "time": 2135,
+    "timeDay": 708,
+    "timeWeek": 1213,
+    "timeMonth": 1944,
+    "timeYear": 2125,
     "dailyMinutesDown": {
       "2024-03-12": 21,
       "2024-03-03": 23,
@@ -515,8 +510,7 @@
       "2023-04-27": 272,
       "2023-04-23": 30,
       "2023-04-05": 17,
-      "2023-03-24": 20,
-      "2023-03-15": 60
+      "2023-03-24": 20
     }
   },
   {
@@ -530,9 +524,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 46,
-    "timeWeek": 78,
+    "time": 124,
+    "timeDay": 39,
+    "timeWeek": 75,
     "timeMonth": 107,
     "timeYear": 122,
     "dailyMinutesDown": {}
