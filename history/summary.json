@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.65%",
-    "time": 1626,
-    "timeDay": 121,
-    "timeWeek": 2825,
+    "time": 1624,
+    "timeDay": 353,
+    "timeWeek": 1427,
     "timeMonth": 1909,
-    "timeYear": 1721,
+    "timeYear": 1720,
     "dailyMinutesDown": {
       "2024-03-12": 42,
       "2024-03-02": 73,
@@ -56,8 +56,7 @@
       "2023-05-26": 98,
       "2023-05-25": 1,
       "2023-04-23": 32,
-      "2023-03-25": 19,
-      "2023-03-24": 22
+      "2023-03-25": 19
     }
   },
   {
@@ -66,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--4-htbm7bza.xn--p1ai.ico",
     "slug": "4-souls",
     "status": "up",
-    "uptime": "97.26%",
+    "uptime": "97.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
-    "time": 2329,
-    "timeDay": 1646,
-    "timeWeek": 2110,
-    "timeMonth": 1999,
-    "timeYear": 2407,
+    "time": 2330,
+    "timeDay": 2034,
+    "timeWeek": 2020,
+    "timeMonth": 2011,
+    "timeYear": 2406,
     "dailyMinutesDown": {
       "2023-12-25": 34,
       "2023-12-16": 199,
@@ -105,16 +104,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nklv.duckdns.org.ico",
     "slug": "sqcp",
     "status": "up",
-    "uptime": "90.32%",
+    "uptime": "90.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "88.54%",
     "time": 2129,
-    "timeDay": 2345,
-    "timeWeek": 1581,
-    "timeMonth": 1731,
-    "timeYear": 2268,
+    "timeDay": 1673,
+    "timeWeek": 1687,
+    "timeMonth": 1754,
+    "timeYear": 2270,
     "dailyMinutesDown": {
       "2024-03-16": 20,
       "2024-03-12": 62,
@@ -217,16 +216,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.mikrotik24.duckdns.org.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "98.78%",
-    "time": 2694,
-    "timeDay": 1145,
-    "timeWeek": 2881,
-    "timeMonth": 2642,
-    "timeYear": 2729,
+    "time": 2692,
+    "timeDay": 1229,
+    "timeWeek": 2315,
+    "timeMonth": 2647,
+    "timeYear": 2727,
     "dailyMinutesDown": {
       "2024-03-12": 22,
       "2024-03-07": 16,
@@ -287,8 +286,7 @@
       "2023-04-27": 273,
       "2023-04-23": 20,
       "2023-04-06": 30,
-      "2023-04-05": 26,
-      "2023-03-24": 22
+      "2023-04-05": 26
     }
   },
   {
@@ -302,11 +300,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "98.73%",
-    "time": 2294,
-    "timeDay": 741,
-    "timeWeek": 2375,
-    "timeMonth": 1748,
-    "timeYear": 2323,
+    "time": 2293,
+    "timeDay": 924,
+    "timeWeek": 1737,
+    "timeMonth": 1722,
+    "timeYear": 2313,
     "dailyMinutesDown": {
       "2024-03-12": 22,
       "2024-03-06": 22,
@@ -360,8 +358,7 @@
       "2023-04-30": 21,
       "2023-04-27": 273,
       "2023-04-23": 31,
-      "2023-03-25": 18,
-      "2023-03-24": 21
+      "2023-03-25": 18
     }
   },
   {
@@ -370,16 +367,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mikrotik24.duckdns.org.ico",
     "slug": "mikrotik24",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.03%",
-    "time": 2035,
-    "timeDay": 755,
-    "timeWeek": 1486,
+    "time": 2033,
+    "timeDay": 746,
+    "timeWeek": 1481,
     "timeMonth": 1551,
-    "timeYear": 2011,
+    "timeYear": 2009,
     "dailyMinutesDown": {
       "2024-03-12": 22,
       "2024-03-02": 101,
@@ -435,8 +432,7 @@
       "2023-04-27": 272,
       "2023-04-23": 21,
       "2023-04-05": 17,
-      "2023-03-25": 18,
-      "2023-03-24": 20
+      "2023-03-25": 18
     }
   },
   {
@@ -451,10 +447,10 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.08%",
     "time": 2123,
-    "timeDay": 725,
-    "timeWeek": 1443,
-    "timeMonth": 1886,
-    "timeYear": 2128,
+    "timeDay": 2353,
+    "timeWeek": 1502,
+    "timeMonth": 1926,
+    "timeYear": 2130,
     "dailyMinutesDown": {
       "2024-03-19": 23,
       "2024-03-12": 21,
@@ -511,8 +507,7 @@
       "2023-04-30": 21,
       "2023-04-27": 272,
       "2023-04-23": 30,
-      "2023-04-05": 17,
-      "2023-03-24": 20
+      "2023-04-05": 17
     }
   },
   {
@@ -527,10 +522,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 45,
-    "timeWeek": 105,
+    "timeDay": 72,
+    "timeWeek": 99,
     "timeMonth": 85,
-    "timeYear": 122,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   }
 ]
