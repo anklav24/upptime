@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Anklav Code
-    url: https://anklavcode.duckdns.org
+    url: https://code.nklv.top/
     expectedStatusCodes:
       - 200
   - name: 4SOULS
@@ -12,15 +12,15 @@ sites:
     expectedStatusCodes:
       - 200
   - name: SQCP
-    url: https://nklv.duckdns.org
+    url: https://squad.nklv.top
     expectedStatusCodes:
       - 200
   - name: Grafana
-    url: https://grafana.mikrotik24.duckdns.org
+    url: https://grafana.nklv.top
     expectedStatusCodes:
       - 200
   - name: Home Assistant
-    url: https://ha-24.duckdns.org
+    url: https://ha.nklv.top
     expectedStatusCodes:
       - 200
   - name: mikrotik24
