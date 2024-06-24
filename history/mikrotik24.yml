@@ -1,7 +1,7 @@
 url: https://mikrotik24.duckdns.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-24T20:46:28.195Z
+status: up
+code: 403
+responseTime: 3966
+lastUpdated: 2024-06-24T20:59:28.066Z
 startTime: 2023-02-20T12:46:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
