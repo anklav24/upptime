@@ -11,9 +11,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.67%",
     "time": 1664,
-    "timeDay": 1016,
-    "timeWeek": 658,
-    "timeMonth": 583,
+    "timeDay": 467,
+    "timeWeek": 665,
+    "timeMonth": 581,
     "timeYear": 1763,
     "dailyMinutesDown": {
       "2024-06-21": 15,
@@ -68,11 +68,11 @@
     "uptimeWeek": "94.37%",
     "uptimeMonth": "94.66%",
     "uptimeYear": "98.74%",
-    "time": 2367,
-    "timeDay": 1799,
-    "timeWeek": 1835,
-    "timeMonth": 1983,
-    "timeYear": 2358,
+    "time": 2366,
+    "timeDay": 1821,
+    "timeWeek": 1854,
+    "timeMonth": 1987,
+    "timeYear": 2356,
     "dailyMinutesDown": {
       "2024-06-21": 75,
       "2024-06-20": 492,
@@ -103,8 +103,7 @@
       "2023-08-01": 26,
       "2023-07-22": 373,
       "2023-07-16": 86,
-      "2023-06-26": 498,
-      "2023-06-25": 1440
+      "2023-06-26": 498
     }
   },
   {
@@ -113,15 +112,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/squad.nklv.top.ico",
     "slug": "sqcp",
     "status": "up",
-    "uptime": "83.65%",
+    "uptime": "83.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.90%",
     "uptimeMonth": "92.84%",
     "uptimeYear": "76.33%",
     "time": 2223,
-    "timeDay": 1179,
-    "timeWeek": 1479,
-    "timeMonth": 2332,
+    "timeDay": 1112,
+    "timeWeek": 1485,
+    "timeMonth": 2331,
     "timeYear": 2419,
     "dailyMinutesDown": {
       "2024-06-21": 224,
@@ -266,8 +265,7 @@
       "2023-07-22": 439,
       "2023-07-16": 86,
       "2023-07-06": 85,
-      "2023-07-05": 19,
-      "2023-06-25": 1005
+      "2023-07-05": 19
     }
   },
   {
@@ -276,15 +274,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.nklv.top.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "90.78%",
+    "uptime": "90.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.39%",
     "uptimeMonth": "94.69%",
     "uptimeYear": "86.72%",
-    "time": 2641,
-    "timeDay": 1322,
-    "timeWeek": 1546,
-    "timeMonth": 1607,
+    "time": 2640,
+    "timeDay": 1443,
+    "timeWeek": 1548,
+    "timeMonth": 1608,
     "timeYear": 2718,
     "dailyMinutesDown": {
       "2024-06-21": 75,
@@ -394,8 +392,7 @@
       "2023-08-01": 81,
       "2023-07-22": 372,
       "2023-07-16": 85,
-      "2023-07-06": 84,
-      "2023-06-25": 977
+      "2023-07-06": 84
     }
   },
   {
@@ -409,10 +406,10 @@
     "uptimeWeek": "94.52%",
     "uptimeMonth": "94.65%",
     "uptimeYear": "98.32%",
-    "time": 2272,
-    "timeDay": 1140,
-    "timeWeek": 1773,
-    "timeMonth": 1612,
+    "time": 2270,
+    "timeDay": 1114,
+    "timeWeek": 1780,
+    "timeMonth": 1631,
     "timeYear": 2376,
     "dailyMinutesDown": {
       "2024-06-21": 62,
@@ -477,8 +474,7 @@
       "2023-07-22": 371,
       "2023-07-16": 85,
       "2023-07-06": 84,
-      "2023-06-26": 473,
-      "2023-06-25": 1440
+      "2023-06-26": 473
     }
   },
   {
@@ -488,17 +484,16 @@
     "slug": "mikrotik24",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "93.80%",
-    "uptimeMonth": "94.32%",
-    "uptimeYear": "98.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "94.33%",
+    "uptimeYear": "98.87%",
     "time": 2251,
-    "timeDay": 4433,
-    "timeWeek": 3864,
-    "timeMonth": 3265,
+    "timeDay": 3225,
+    "timeWeek": 3658,
+    "timeMonth": 3264,
     "timeYear": 2332,
     "dailyMinutesDown": {
-      "2024-06-23": 6,
       "2024-06-22": 17,
       "2024-06-21": 62,
       "2024-06-20": 490,
@@ -575,11 +570,11 @@
     "uptimeWeek": "93.67%",
     "uptimeMonth": "94.35%",
     "uptimeYear": "98.62%",
-    "time": 2309,
-    "timeDay": 7564,
-    "timeWeek": 5450,
+    "time": 2308,
+    "timeDay": 4682,
+    "timeWeek": 5452,
     "timeMonth": 3341,
-    "timeYear": 2477,
+    "timeYear": 2476,
     "dailyMinutesDown": {
       "2024-06-22": 16,
       "2024-06-21": 61,
@@ -649,8 +644,7 @@
       "2023-07-22": 371,
       "2023-07-16": 84,
       "2023-07-06": 82,
-      "2023-07-05": 18,
-      "2023-06-25": 976
+      "2023-07-05": 18
     }
   },
   {
@@ -665,10 +659,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 73,
+    "timeDay": 42,
     "timeWeek": 93,
-    "timeMonth": 94,
-    "timeYear": 117,
+    "timeMonth": 90,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   }
 ]
