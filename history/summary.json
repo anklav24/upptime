@@ -64,9 +64,9 @@
     "slug": "4-souls",
     "status": "up",
     "uptime": "97.41%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "95.85%",
-    "uptimeMonth": "95.61%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "95.63%",
     "uptimeYear": "99.09%",
     "time": 2449,
     "timeDay": 6080,
@@ -74,7 +74,7 @@
     "timeMonth": 2890,
     "timeYear": 2473,
     "dailyMinutesDown": {
-      "2024-06-30": 58,
+      "2024-06-30": 51,
       "2024-06-29": 81,
       "2024-06-28": 279,
       "2024-06-21": 75,
@@ -567,9 +567,9 @@
     "url": "https://zabbix24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/zabbix24.duckdns.org.ico",
     "slug": "zabbix24",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "96.95%",
+    "uptimeDay": "96.92%",
     "uptimeWeek": "95.56%",
     "uptimeMonth": "95.18%",
     "uptimeYear": "98.90%",
@@ -646,8 +646,7 @@
       "2023-08-29": 32,
       "2023-08-27": 32,
       "2023-08-07": 66,
-      "2023-08-06": 38,
-      "2023-08-05": 17
+      "2023-08-06": 38
     }
   },
   {
