@@ -566,12 +566,12 @@
     "url": "https://zabbix24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/zabbix24.duckdns.org.ico",
     "slug": "zabbix24",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "95.29%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "95.28%",
     "uptimeMonth": "95.12%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.91%",
     "time": 2325,
     "timeDay": 927,
     "timeWeek": 3391,
@@ -645,8 +645,7 @@
       "2023-08-31": 61,
       "2023-08-29": 32,
       "2023-08-27": 32,
-      "2023-08-07": 66,
-      "2023-08-06": 38
+      "2023-08-07": 66
     }
   },
   {
