@@ -64,7 +64,7 @@
     "slug": "4-souls",
     "status": "up",
     "uptime": "97.38%",
-    "uptimeDay": "91.08%",
+    "uptimeDay": "95.28%",
     "uptimeWeek": "92.57%",
     "uptimeMonth": "94.86%",
     "uptimeYear": "99.03%",
@@ -117,7 +117,7 @@
     "slug": "sqcp",
     "status": "up",
     "uptime": "84.23%",
-    "uptimeDay": "93.04%",
+    "uptimeDay": "97.21%",
     "uptimeWeek": "91.87%",
     "uptimeMonth": "93.46%",
     "uptimeYear": "76.55%",
@@ -279,8 +279,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.nklv.top.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "91.10%",
-    "uptimeDay": "93.07%",
+    "uptime": "91.11%",
+    "uptimeDay": "97.21%",
     "uptimeWeek": "88.90%",
     "uptimeMonth": "94.03%",
     "uptimeYear": "86.77%",
@@ -411,7 +411,7 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "93.11%",
+    "uptimeDay": "97.21%",
     "uptimeWeek": "93.18%",
     "uptimeMonth": "94.98%",
     "uptimeYear": "98.87%",
@@ -490,9 +490,9 @@
     "slug": "mikrotik24",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "82.98%",
-    "uptimeWeek": "91.18%",
-    "uptimeMonth": "94.17%",
+    "uptimeDay": "87.44%",
+    "uptimeWeek": "91.23%",
+    "uptimeMonth": "94.18%",
     "uptimeYear": "98.89%",
     "time": 2385,
     "timeDay": 4335,
@@ -500,7 +500,7 @@
     "timeMonth": 3697,
     "timeYear": 2538,
     "dailyMinutesDown": {
-      "2024-07-03": 41,
+      "2024-07-03": 35,
       "2024-07-02": 333,
       "2024-07-01": 138,
       "2024-06-30": 44,
@@ -557,7 +557,8 @@
       "2023-10-01": 19,
       "2023-09-25": 37,
       "2023-09-19": 23,
-      "2023-09-09": 19
+      "2023-09-09": 19,
+      "2023-09-06": 37
     }
   },
   {
@@ -565,9 +566,9 @@
     "url": "https://zabbix24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/zabbix24.duckdns.org.ico",
     "slug": "zabbix24",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "85.83%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "89.84%",
     "uptimeWeek": "91.95%",
     "uptimeMonth": "94.24%",
     "uptimeYear": "98.85%",
@@ -577,6 +578,7 @@
     "timeMonth": 3686,
     "timeYear": 2562,
     "dailyMinutesDown": {
+      "2024-07-03": 0,
       "2024-07-02": 333,
       "2024-07-01": 103,
       "2024-06-30": 44,
@@ -642,8 +644,7 @@
       "2023-09-06": 37,
       "2023-09-03": 111,
       "2023-09-02": 48,
-      "2023-08-31": 61,
-      "2023-08-29": 32
+      "2023-08-31": 61
     }
   },
   {
