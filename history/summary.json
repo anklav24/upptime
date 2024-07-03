@@ -280,7 +280,7 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "91.10%",
-    "uptimeDay": "80.81%",
+    "uptimeDay": "85.07%",
     "uptimeWeek": "88.90%",
     "uptimeMonth": "94.03%",
     "uptimeYear": "86.77%",
@@ -488,19 +488,19 @@
     "url": "https://mikrotik24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/mikrotik24.duckdns.org.ico",
     "slug": "mikrotik24",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "83.37%",
-    "uptimeWeek": "91.23%",
+    "uptimeDay": "83.32%",
+    "uptimeWeek": "91.22%",
     "uptimeMonth": "94.18%",
     "uptimeYear": "98.89%",
-    "time": 2431,
+    "time": 2426,
     "timeDay": 5142,
     "timeWeek": 4464,
     "timeMonth": 3736,
     "timeYear": 2528,
     "dailyMinutesDown": {
-      "2024-07-03": 35,
+      "2024-07-03": 36,
       "2024-07-02": 333,
       "2024-07-01": 138,
       "2024-06-30": 44,
@@ -557,8 +557,7 @@
       "2023-10-01": 19,
       "2023-09-25": 37,
       "2023-09-19": 23,
-      "2023-09-09": 19,
-      "2023-09-06": 37
+      "2023-09-09": 19
     }
   },
   {
