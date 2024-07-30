@@ -69,7 +69,7 @@
     "time": 2460,
     "timeDay": 1655,
     "timeWeek": 1787,
-    "timeMonth": 2744,
+    "timeMonth": 2634,
     "timeYear": 2506,
     "dailyMinutesDown": {
       "2024-07-11": 547,
@@ -118,7 +118,7 @@
     "uptime": "84.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "76.46%",
     "time": 2288,
     "timeDay": 1156,
@@ -492,17 +492,16 @@
     "slug": "mikrotik24",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "96.76%",
-    "uptimeYear": "98.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "96.77%",
+    "uptimeYear": "98.78%",
     "time": 2475,
     "timeDay": 5511,
     "timeWeek": 2575,
     "timeMonth": 3583,
     "timeYear": 2671,
     "dailyMinutesDown": {
-      "2024-07-29": 5,
       "2024-07-23": 45,
       "2024-07-15": 37,
       "2024-07-11": 545,
@@ -561,7 +560,7 @@
       "2023-10-25": 84,
       "2023-10-23": 34,
       "2023-10-13": 34,
-      "2023-10-11": 32
+      "2023-10-11": 52
     }
   },
   {
@@ -571,17 +570,16 @@
     "slug": "zabbix24",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "98.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "98.76%",
     "time": 2457,
     "timeDay": 3390,
     "timeWeek": 2296,
     "timeMonth": 3434,
     "timeYear": 2721,
     "dailyMinutesDown": {
-      "2024-07-29": 5,
       "2024-07-15": 35,
       "2024-07-11": 544,
       "2024-07-09": 42,
@@ -648,7 +646,8 @@
       "2023-10-11": 105,
       "2023-10-10": 28,
       "2023-10-05": 15,
-      "2023-09-25": 36
+      "2023-09-25": 36,
+      "2023-09-06": 37
     }
   },
   {
