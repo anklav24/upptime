@@ -114,7 +114,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/squad.nklv.top.ico",
     "slug": "sqcp",
     "status": "up",
-    "uptime": "84.99%",
+    "uptime": "85.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.33%",
@@ -281,7 +281,7 @@
     "uptime": "91.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.89%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "86.75%",
     "time": 2683,
     "timeDay": 1451,
@@ -488,10 +488,10 @@
     "url": "https://mikrotik24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/mikrotik24.duckdns.org.ico",
     "slug": "mikrotik24",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "99.42%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "97.35%",
     "uptimeYear": "98.78%",
     "time": 2506,
@@ -500,7 +500,7 @@
     "timeMonth": 3580,
     "timeYear": 2711,
     "dailyMinutesDown": {
-      "2024-08-02": 59,
+      "2024-08-02": 60,
       "2024-07-23": 45,
       "2024-07-15": 37,
       "2024-07-11": 545,
@@ -558,8 +558,7 @@
       "2023-10-29": 51,
       "2023-10-25": 84,
       "2023-10-23": 34,
-      "2023-10-13": 34,
-      "2023-10-11": 16
+      "2023-10-13": 34
     }
   },
   {
@@ -567,13 +566,13 @@
     "url": "https://zabbix24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/zabbix24.duckdns.org.ico",
     "slug": "zabbix24",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "92.08%",
-    "uptimeWeek": "98.87%",
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "97.69%",
-    "uptimeYear": "98.75%",
-    "time": 2481,
+    "uptimeYear": "98.76%",
+    "time": 2483,
     "timeDay": 4797,
     "timeWeek": 2731,
     "timeMonth": 3654,
@@ -644,8 +643,7 @@
       "2023-10-17": 36,
       "2023-10-13": 33,
       "2023-10-11": 105,
-      "2023-10-10": 28,
-      "2023-10-05": 15
+      "2023-10-10": 28
     }
   },
   {
