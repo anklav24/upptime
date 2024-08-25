@@ -14,7 +14,7 @@
     "timeDay": 808,
     "timeWeek": 802,
     "timeMonth": 714,
-    "timeYear": 1670,
+    "timeYear": 1673,
     "dailyMinutesDown": {
       "2024-06-21": 15,
       "2024-04-02": 17,
@@ -119,7 +119,7 @@
     "timeDay": 1634,
     "timeWeek": 1521,
     "timeMonth": 1390,
-    "timeYear": 2310,
+    "timeYear": 2312,
     "dailyMinutesDown": {
       "2024-08-16": 17,
       "2024-07-11": 546,
@@ -400,7 +400,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.nklv.top.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -409,7 +409,7 @@
     "timeDay": 1142,
     "timeWeek": 1315,
     "timeMonth": 1214,
-    "timeYear": 2412,
+    "timeYear": 2410,
     "dailyMinutesDown": {
       "2024-07-18": 315,
       "2024-07-11": 545,
@@ -489,7 +489,7 @@
     "timeDay": 1723,
     "timeWeek": 3592,
     "timeMonth": 3754,
-    "timeYear": 2829,
+    "timeYear": 2832,
     "dailyMinutesDown": {
       "2024-08-20": 20,
       "2024-08-19": 16,
@@ -557,18 +557,19 @@
     "url": "https://zabbix24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/zabbix24.duckdns.org.ico",
     "slug": "zabbix24",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.39%",
-    "uptimeYear": "98.75%",
-    "time": 2643,
+    "uptimeYear": "98.76%",
+    "time": 2646,
     "timeDay": 5908,
     "timeWeek": 2416,
     "timeMonth": 3285,
-    "timeYear": 2851,
+    "timeYear": 2848,
     "dailyMinutesDown": {
+      "2024-08-25": 0,
       "2024-08-20": 39,
       "2024-08-19": 16,
       "2024-08-17": 29,
@@ -634,8 +635,7 @@
       "2023-11-05": 31,
       "2023-10-31": 201,
       "2023-10-23": 18,
-      "2023-10-17": 36,
-      "2023-10-13": 33
+      "2023-10-17": 36
     }
   },
   {
