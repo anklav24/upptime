@@ -475,9 +475,9 @@
     "slug": "mikrotik24",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "96.56%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "98.79%",
     "time": 2663,
     "timeDay": 4098,
@@ -485,7 +485,7 @@
     "timeMonth": 3905,
     "timeYear": 2851,
     "dailyMinutesDown": {
-      "2024-08-29": 49,
+      "2024-08-29": 43,
       "2024-08-20": 20,
       "2024-08-19": 16,
       "2024-08-02": 123,
@@ -542,7 +542,8 @@
       "2023-11-14": 17,
       "2023-11-13": 148,
       "2023-11-05": 32,
-      "2023-10-31": 202
+      "2023-10-31": 202,
+      "2023-10-29": 19
     }
   },
   {
@@ -550,19 +551,19 @@
     "url": "https://zabbix24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/zabbix24.duckdns.org.ico",
     "slug": "zabbix24",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "98.76%",
-    "time": 2692,
+    "time": 2695,
     "timeDay": 3927,
     "timeWeek": 3230,
     "timeMonth": 3451,
     "timeYear": 2856,
     "dailyMinutesDown": {
-      "2024-08-29": 19,
+      "2024-08-29": 20,
       "2024-08-20": 39,
       "2024-08-19": 16,
       "2024-08-17": 29,
@@ -627,8 +628,7 @@
       "2023-11-13": 147,
       "2023-11-05": 31,
       "2023-10-31": 201,
-      "2023-10-23": 18,
-      "2023-10-17": 36
+      "2023-10-23": 18
     }
   },
   {
