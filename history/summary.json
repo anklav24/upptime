@@ -541,18 +541,19 @@
     "url": "https://zabbix24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/zabbix24.duckdns.org.ico",
     "slug": "zabbix24",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "96.89%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "97.08%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "98.79%",
-    "time": 2760,
+    "time": 2763,
     "timeDay": 6853,
-    "timeWeek": 3775,
+    "timeWeek": 3836,
     "timeMonth": 3501,
     "timeYear": 2882,
     "dailyMinutesDown": {
+      "2024-09-05": 0,
       "2024-09-04": 15,
       "2024-09-02": 253,
       "2024-08-30": 26,
@@ -616,7 +617,7 @@
       "2023-12-15": 124,
       "2023-12-11": 21,
       "2023-12-10": 271,
-      "2023-12-05": 46
+      "2023-12-05": 25
     }
   },
   {
