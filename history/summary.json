@@ -461,18 +461,19 @@
     "url": "https://mikrotik24.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/mikrotik24.duckdns.org.ico",
     "slug": "mikrotik24",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.87%",
     "time": 2781,
     "timeDay": 1689,
     "timeWeek": 3773,
     "timeMonth": 4084,
     "timeYear": 3017,
     "dailyMinutesDown": {
+      "2024-09-26": 1,
       "2024-09-17": 20,
       "2024-09-16": 19,
       "2024-09-08": 158,
@@ -528,8 +529,7 @@
       "2024-01-04": 75,
       "2024-01-03": 16,
       "2023-12-25": 18,
-      "2023-12-16": 196,
-      "2023-12-15": 39
+      "2023-12-16": 165
     }
   },
   {
