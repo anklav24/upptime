@@ -23,12 +23,12 @@ sites:
     url: https://ha.nklv.top
     expectedStatusCodes:
       - 200
-  - name: mikrotik24
-    url: https://mikrotik24.duckdns.org
+  - name: router
+    url: https://router.nklv.top
     expectedStatusCodes:
       - 403
-  - name: zabbix24
-    url: https://zabbix24.duckdns.org
+  - name: zabbix
+    url: https://zabbix.nklv.top
     expectedStatusCodes:
       - 403
   - name: Upptime
