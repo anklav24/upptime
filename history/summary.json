@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1506,
-    "timeDay": 547,
-    "timeWeek": 708,
-    "timeMonth": 639,
+    "time": 1507,
+    "timeDay": 524,
+    "timeWeek": 651,
+    "timeMonth": 633,
     "timeYear": 1365,
     "dailyMinutesDown": {
       "2024-06-21": 15,
@@ -35,8 +35,7 @@
       "2023-12-05": 58,
       "2023-11-28": 18,
       "2023-11-13": 19,
-      "2023-11-06": 51,
-      "2023-11-05": 17
+      "2023-11-06": 51
     }
   },
   {
@@ -45,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--4-htbm7bza.xn--p1ai.ico",
     "slug": "4-souls",
     "status": "up",
-    "uptime": "97.75%",
+    "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.00%",
     "time": 2400,
-    "timeDay": 2093,
-    "timeWeek": 2177,
-    "timeMonth": 2104,
-    "timeYear": 2371,
+    "timeDay": 2027,
+    "timeWeek": 2124,
+    "timeMonth": 2092,
+    "timeYear": 2373,
     "dailyMinutesDown": {
       "2024-10-26": 62,
       "2024-10-18": 43,
@@ -87,8 +86,7 @@
       "2023-12-16": 199,
       "2023-12-15": 138,
       "2023-12-10": 302,
-      "2023-11-13": 150,
-      "2023-11-05": 34
+      "2023-11-13": 150
     }
   },
   {
@@ -97,15 +95,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/squad.nklv.top.ico",
     "slug": "sqcp",
     "status": "up",
-    "uptime": "87.06%",
+    "uptime": "87.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "86.29%",
-    "time": 2139,
-    "timeDay": 1154,
-    "timeWeek": 1412,
-    "timeMonth": 1238,
+    "uptimeYear": "86.56%",
+    "time": 2131,
+    "timeDay": 1175,
+    "timeWeek": 1356,
+    "timeMonth": 1230,
     "timeYear": 2141,
     "dailyMinutesDown": {
       "2024-10-26": 62,
@@ -207,8 +205,7 @@
       "2023-12-05": 72,
       "2023-11-28": 99,
       "2023-11-13": 209,
-      "2023-11-06": 51,
-      "2023-11-05": 182
+      "2023-11-06": 51
     }
   },
   {
@@ -217,16 +214,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.nklv.top.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "92.70%",
+    "uptime": "92.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "86.87%",
-    "time": 2472,
-    "timeDay": 1686,
-    "timeWeek": 1811,
-    "timeMonth": 1658,
-    "timeYear": 2329,
+    "time": 2465,
+    "timeDay": 1452,
+    "timeWeek": 1724,
+    "timeMonth": 1642,
+    "timeYear": 2332,
     "dailyMinutesDown": {
       "2024-10-31": 27,
       "2024-10-26": 62,
@@ -326,8 +323,7 @@
       "2023-12-05": 46,
       "2023-11-28": 46,
       "2023-11-13": 149,
-      "2023-11-06": 52,
-      "2023-11-05": 49
+      "2023-11-06": 52
     }
   },
   {
@@ -341,11 +337,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "98.81%",
-    "time": 2252,
-    "timeDay": 1131,
-    "timeWeek": 1276,
-    "timeMonth": 1238,
-    "timeYear": 2132,
+    "time": 2245,
+    "timeDay": 1273,
+    "timeWeek": 1325,
+    "timeMonth": 1233,
+    "timeYear": 2126,
     "dailyMinutesDown": {
       "2024-10-26": 62,
       "2024-10-25": 18,
@@ -398,8 +394,7 @@
       "2023-12-05": 87,
       "2023-11-28": 63,
       "2023-11-13": 148,
-      "2023-11-06": 73,
-      "2023-11-05": 36
+      "2023-11-06": 73
     }
   },
   {
@@ -408,16 +403,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/router.nklv.top.ico",
     "slug": "router",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
-    "time": 1180,
-    "timeDay": 1154,
-    "timeWeek": 1284,
-    "timeMonth": 1180,
-    "timeYear": 1180,
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 1172,
+    "timeDay": 1083,
+    "timeWeek": 1221,
+    "timeMonth": 1172,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2024-10-26": 62
     }
@@ -428,16 +423,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zabbix.nklv.top.ico",
     "slug": "zabbix",
     "status": "up",
-    "uptime": "0.00%",
+    "uptime": "7.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
-    "time": 1338,
-    "timeDay": 1084,
-    "timeWeek": 1245,
-    "timeMonth": 1144,
-    "timeYear": 1144,
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 1341,
+    "timeDay": 1056,
+    "timeWeek": 1221,
+    "timeMonth": 1137,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2024-10-26": 62
     }
@@ -454,9 +449,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 70,
-    "timeWeek": 119,
-    "timeMonth": 122,
+    "timeDay": 55,
+    "timeWeek": 105,
+    "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {}
   }
