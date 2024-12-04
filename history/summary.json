@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1427,
-    "timeDay": 657,
-    "timeWeek": 645,
+    "time": 1428,
+    "timeDay": 523,
+    "timeWeek": 656,
     "timeMonth": 609,
-    "timeYear": 1270,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2024-06-21": 15,
       "2024-04-02": 17,
@@ -31,8 +31,7 @@
       "2024-01-04": 56,
       "2024-01-02": 21,
       "2023-12-31": 73,
-      "2023-12-11": 41,
-      "2023-12-05": 58
+      "2023-12-11": 41
     }
   },
   {
@@ -41,16 +40,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--4-htbm7bza.xn--p1ai.ico",
     "slug": "4-souls",
     "status": "up",
-    "uptime": "97.85%",
+    "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 2399,
-    "timeDay": 2336,
-    "timeWeek": 2259,
-    "timeMonth": 2313,
-    "timeYear": 2380,
+    "timeDay": 2387,
+    "timeWeek": 2353,
+    "timeMonth": 2324,
+    "timeYear": 2383,
     "dailyMinutesDown": {
       "2024-10-26": 62,
       "2024-10-18": 43,
@@ -91,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/squad.nklv.top.ico",
     "slug": "sqcp",
     "status": "up",
-    "uptime": "87.62%",
+    "uptime": "87.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.92%",
-    "time": 2061,
-    "timeDay": 1510,
-    "timeWeek": 1385,
-    "timeMonth": 1340,
-    "timeYear": 2107,
+    "time": 2062,
+    "timeDay": 1269,
+    "timeWeek": 1414,
+    "timeMonth": 1343,
+    "timeYear": 2112,
     "dailyMinutesDown": {
       "2024-10-26": 62,
       "2024-10-18": 42,
@@ -197,8 +196,7 @@
       "2023-12-15": 175,
       "2023-12-10": 353,
       "2023-12-08": 16,
-      "2023-12-07": 18,
-      "2023-12-05": 72
+      "2023-12-07": 18
     }
   },
   {
@@ -207,15 +205,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.nklv.top.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "93.02%",
+    "uptime": "93.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.93%",
     "time": 2421,
-    "timeDay": 1890,
-    "timeWeek": 1664,
-    "timeMonth": 1677,
+    "timeDay": 1513,
+    "timeWeek": 1669,
+    "timeMonth": 1679,
     "timeYear": 2294,
     "dailyMinutesDown": {
       "2024-10-31": 27,
@@ -312,8 +310,7 @@
       "2023-12-16": 197,
       "2023-12-15": 136,
       "2023-12-11": 22,
-      "2023-12-10": 301,
-      "2023-12-05": 46
+      "2023-12-10": 301
     }
   },
   {
@@ -328,9 +325,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 2090,
-    "timeDay": 1535,
-    "timeWeek": 1303,
-    "timeMonth": 1353,
+    "timeDay": 1309,
+    "timeWeek": 1314,
+    "timeMonth": 1354,
     "timeYear": 2093,
     "dailyMinutesDown": {
       "2024-10-26": 62,
@@ -380,8 +377,7 @@
       "2023-12-16": 196,
       "2023-12-15": 135,
       "2023-12-11": 47,
-      "2023-12-10": 301,
-      "2023-12-05": 87
+      "2023-12-10": 301
     }
   },
   {
@@ -395,11 +391,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1208,
-    "timeDay": 1453,
-    "timeWeek": 1334,
-    "timeMonth": 1219,
-    "timeYear": 1208,
+    "time": 1214,
+    "timeDay": 1461,
+    "timeWeek": 1380,
+    "timeMonth": 1231,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2024-10-26": 62
     }
@@ -410,16 +406,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zabbix.nklv.top.ico",
     "slug": "zabbix",
     "status": "up",
-    "uptime": "77.36%",
+    "uptime": "77.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1403,
-    "timeDay": 1198,
-    "timeWeek": 1241,
-    "timeMonth": 1194,
-    "timeYear": 1180,
+    "time": 1406,
+    "timeDay": 1204,
+    "timeWeek": 1239,
+    "timeMonth": 1199,
+    "timeYear": 1181,
     "dailyMinutesDown": {
       "2024-10-26": 62
     }
@@ -436,7 +432,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 37,
+    "timeDay": 62,
     "timeWeek": 98,
     "timeMonth": 121,
     "timeYear": 119,
