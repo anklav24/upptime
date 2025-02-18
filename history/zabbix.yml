@@ -1,7 +1,7 @@
 url: https://zabbix.nklv.top
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-18T20:43:34.667Z
+status: up
+code: 403
+responseTime: 1197
+lastUpdated: 2025-02-18T20:48:39.107Z
 startTime: 2024-10-25T17:07:51.703Z
 generator: Upptime <https://github.com/upptime/upptime>
