@@ -10,17 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1128,
-    "timeDay": 529,
-    "timeWeek": 573,
-    "timeMonth": 897,
+    "time": 1126,
+    "timeDay": 485,
+    "timeWeek": 570,
+    "timeMonth": 875,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2024-06-21": 15,
       "2024-04-02": 17,
       "2024-03-27": 55,
-      "2024-03-12": 42,
-      "2024-03-02": 73
+      "2024-03-12": 42
     }
   },
   {
@@ -35,10 +34,10 @@
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.11%",
     "time": 2373,
-    "timeDay": 2061,
-    "timeWeek": 2283,
-    "timeMonth": 2227,
-    "timeYear": 2334,
+    "timeDay": 2124,
+    "timeWeek": 2174,
+    "timeMonth": 2232,
+    "timeYear": 2335,
     "dailyMinutesDown": {
       "2025-02-19": 34,
       "2025-02-16": 176,
@@ -79,16 +78,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/squad.nklv.top.ico",
     "slug": "sqcp",
     "status": "up",
-    "uptime": "89.05%",
+    "uptime": "89.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "87.13%",
-    "time": 1829,
-    "timeDay": 898,
-    "timeWeek": 1083,
-    "timeMonth": 1171,
-    "timeYear": 1598,
+    "time": 1827,
+    "timeDay": 871,
+    "timeWeek": 1024,
+    "timeMonth": 1170,
+    "timeYear": 1599,
     "dailyMinutesDown": {
       "2025-02-19": 33,
       "2025-02-16": 177,
@@ -175,8 +174,7 @@
       "2024-03-27": 17,
       "2024-03-26": 35,
       "2024-03-16": 20,
-      "2024-03-12": 62,
-      "2024-03-02": 65
+      "2024-03-12": 62
     }
   },
   {
@@ -185,16 +183,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.nklv.top.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "93.82%",
+    "uptime": "93.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "87.17%",
-    "time": 2082,
-    "timeDay": 1563,
-    "timeWeek": 1620,
+    "time": 2072,
+    "timeDay": 1205,
+    "timeWeek": 1525,
     "timeMonth": 1497,
-    "timeYear": 1865,
+    "timeYear": 1851,
     "dailyMinutesDown": {
       "2025-02-19": 121,
       "2025-02-17": 56,
@@ -281,8 +279,7 @@
       "2024-03-27": 39,
       "2024-03-26": 16,
       "2024-03-12": 22,
-      "2024-03-07": 16,
-      "2024-03-02": 108
+      "2024-03-07": 16
     }
   },
   {
@@ -296,11 +293,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "98.83%",
-    "time": 1731,
-    "timeDay": 974,
-    "timeWeek": 1084,
-    "timeMonth": 1126,
-    "timeYear": 1544,
+    "time": 1729,
+    "timeDay": 859,
+    "timeWeek": 1037,
+    "timeMonth": 1124,
+    "timeYear": 1545,
     "dailyMinutesDown": {
       "2025-02-19": 157,
       "2025-02-18": 25,
@@ -349,8 +346,7 @@
       "2024-03-26": 34,
       "2024-03-12": 22,
       "2024-03-06": 22,
-      "2024-03-03": 24,
-      "2024-03-02": 86
+      "2024-03-03": 24
     }
   },
   {
@@ -364,11 +360,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "99.06%",
-    "time": 1087,
-    "timeDay": 1147,
-    "timeWeek": 1053,
+    "time": 1086,
+    "timeDay": 896,
+    "timeWeek": 1009,
     "timeMonth": 1037,
-    "timeYear": 1087,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-02-19": 191,
       "2025-02-18": 100,
@@ -392,14 +388,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/zabbix.nklv.top.ico",
     "slug": "zabbix",
     "status": "up",
-    "uptime": "92.21%",
+    "uptime": "92.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.93%",
-    "uptimeYear": "99.05%",
-    "time": 1149,
-    "timeDay": 1068,
-    "timeWeek": 986,
+    "uptimeYear": "99.06%",
+    "time": 1150,
+    "timeDay": 884,
+    "timeWeek": 935,
     "timeMonth": 1019,
     "timeYear": 1055,
     "dailyMinutesDown": {
@@ -431,10 +427,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 85,
-    "timeWeek": 102,
-    "timeMonth": 129,
-    "timeYear": 118,
+    "timeDay": 207,
+    "timeWeek": 100,
+    "timeMonth": 135,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   }
 ]
