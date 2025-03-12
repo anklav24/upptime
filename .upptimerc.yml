@@ -30,7 +30,7 @@ sites:
   - name: zabbix
     url: https://zabbix.nklv.top
     expectedStatusCodes:
-      - 200
+      - 403
   - name: Upptime
     url: https://anklav24.github.io/upptime
     expectedStatusCodes:
