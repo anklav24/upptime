@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 823,
-    "timeDay": 662,
-    "timeWeek": 619,
-    "timeMonth": 633,
-    "timeYear": 635,
+    "time": 824,
+    "timeDay": 814,
+    "timeWeek": 652,
+    "timeMonth": 627,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2025-06-26": 28
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.69%",
     "time": 2270,
-    "timeDay": 2024,
-    "timeWeek": 1976,
-    "timeMonth": 2046,
-    "timeYear": 2166,
+    "timeDay": 2334,
+    "timeWeek": 2047,
+    "timeMonth": 2051,
+    "timeYear": 2167,
     "dailyMinutesDown": {
       "2025-06-26": 27,
       "2025-04-16": 17,
@@ -52,8 +52,7 @@
       "2024-09-02": 219,
       "2024-08-30": 28,
       "2024-07-11": 547,
-      "2024-07-06": 57,
-      "2024-07-05": 122
+      "2024-07-06": 57
     }
   },
   {
@@ -62,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/squad.nklv.top.ico",
     "slug": "sqcp",
     "status": "up",
-    "uptime": "94.69%",
+    "uptime": "94.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.66%",
-    "time": 1484,
-    "timeDay": 969,
-    "timeWeek": 1118,
-    "timeMonth": 1213,
-    "timeYear": 1261,
+    "time": 1485,
+    "timeDay": 1562,
+    "timeWeek": 1195,
+    "timeMonth": 1211,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2025-06-29": 48,
       "2025-06-26": 27,
@@ -94,8 +93,7 @@
       "2024-08-28": 59,
       "2024-08-16": 17,
       "2024-07-11": 546,
-      "2024-07-06": 57,
-      "2024-07-05": 28
+      "2024-07-06": 57
     }
   },
   {
@@ -104,15 +102,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.nklv.top.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "94.70%",
+    "uptime": "94.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.61%",
-    "time": 1675,
-    "timeDay": 1537,
-    "timeWeek": 1533,
-    "timeMonth": 1586,
+    "time": 1674,
+    "timeDay": 1662,
+    "timeWeek": 1565,
+    "timeMonth": 1584,
     "timeYear": 1608,
     "dailyMinutesDown": {
       "2025-06-26": 27,
@@ -139,8 +137,7 @@
       "2024-08-30": 27,
       "2024-08-16": 16,
       "2024-07-11": 546,
-      "2024-07-06": 57,
-      "2024-07-05": 26
+      "2024-07-06": 57
     }
   },
   {
@@ -155,9 +152,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.42%",
     "time": 1506,
-    "timeDay": 1238,
-    "timeWeek": 1168,
-    "timeMonth": 1199,
+    "timeDay": 1080,
+    "timeWeek": 1166,
+    "timeMonth": 1177,
     "timeYear": 1307,
     "dailyMinutesDown": {
       "2025-06-26": 26,
@@ -187,8 +184,7 @@
       "2024-08-30": 27,
       "2024-07-18": 315,
       "2024-07-11": 545,
-      "2024-07-06": 57,
-      "2024-07-05": 26
+      "2024-07-06": 57
     }
   },
   {
@@ -203,9 +199,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.47%",
     "time": 1093,
-    "timeDay": 1187,
-    "timeWeek": 1075,
-    "timeMonth": 1223,
+    "timeDay": 1247,
+    "timeWeek": 1131,
+    "timeMonth": 1231,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-06-26": 20,
@@ -235,15 +231,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zabbix.nklv.top.ico",
     "slug": "zabbix",
     "status": "up",
-    "uptime": "96.03%",
+    "uptime": "96.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.47%",
     "time": 1148,
-    "timeDay": 1136,
-    "timeWeek": 1070,
-    "timeMonth": 1163,
+    "timeDay": 1239,
+    "timeWeek": 1088,
+    "timeMonth": 1164,
     "timeYear": 1066,
     "dailyMinutesDown": {
       "2025-06-26": 19,
@@ -279,10 +275,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 140,
-    "timeWeek": 128,
-    "timeMonth": 138,
-    "timeYear": 133,
+    "timeDay": 235,
+    "timeWeek": 153,
+    "timeMonth": 139,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   }
 ]
