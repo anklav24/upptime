@@ -4,9 +4,9 @@
     "url": "https://code.nklv.top/",
     "icon": "https://icons.duckduckgo.com/ip3/code.nklv.top.ico",
     "slug": "anklav-code",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 745,
     "timeYear": 648,
     "dailyMinutesDown": {
+      "2025-08-10": 0,
       "2025-06-26": 28
     }
   },
@@ -66,7 +67,7 @@
     "uptimeYear": "99.78%",
     "time": 1471,
     "timeDay": 1818,
-    "timeWeek": 1502,
+    "timeWeek": 1249,
     "timeMonth": 2041,
     "timeYear": 1326,
     "dailyMinutesDown": {
@@ -147,7 +148,7 @@
     "uptimeYear": "99.60%",
     "time": 1440,
     "timeDay": 1657,
-    "timeWeek": 1532,
+    "timeWeek": 1219,
     "timeMonth": 1295,
     "timeYear": 1277,
     "dailyMinutesDown": {
@@ -222,7 +223,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zabbix.nklv.top.ico",
     "slug": "zabbix",
     "status": "up",
-    "uptime": "96.54%",
+    "uptime": "96.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
